@@ -31,7 +31,13 @@
 .r-header-jumbo img{
     width: 60%;
 }
-.r-header-jumbo a{
+.r-logo{
+    margin-top: 135px;
+}
+.r-header-jumbo p{
+    font-size: 12px;
+}
+.r-header-jumbo a,.takes-two a{
     font-size: 12px;
     background-color: hsl(15deg 86% 43%);
 }
@@ -60,4 +66,15 @@
 .ps5 a{
     font-size: 12px;
     background-color: hsl(222deg 79% 54%);
+}
+/*TAKES-TWO*/
+.takes-two{
+    height: 68vh;
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.takes-two p{
+    font-size: 12px;
 }
