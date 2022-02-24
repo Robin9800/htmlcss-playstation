@@ -18,3 +18,13 @@
 .r-header-logo div{
     height: 4vh;
 }
+.r-header-jumbo{
+    height: 68vh;
+    background-image: url(img/jumbo-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.r-header-jumbo img{
+    width: 60%;
+}
