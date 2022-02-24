@@ -1,0 +1,16 @@
+/*GENERICS*/
+
+/*UTILITIES*/
+.r-border{
+    border: 1px solid black;
+}
+/*CONTENT*/
+.r-header-logo{
+    background-color: black;
+}
+.r-header-logo img{
+    height: 70%;
+}
+.r-header-logo div{
+    height: 4vh;
+}
