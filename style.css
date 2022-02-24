@@ -28,3 +28,8 @@
 .r-header-jumbo img{
     width: 60%;
 }
+.r-header-jumbo a{
+    font-size: 12px;
+    text-decoration: none;
+    background-color: hsl(15deg 86% 43%);
+}
