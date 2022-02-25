@@ -32,9 +32,6 @@
 .r-header-jumbo img{
     width: 60%;
 }
-.r-logo{
-    margin-top: 135px;
-}
 .r-header-jumbo p{
     font-size: 12px;
 }
@@ -56,8 +53,8 @@
     color: hsl(207deg 68% 57%);
     font-size: 10px;
 }
-.ps5 p{
-    font-size: 13px;
+.ps5 p,.ps4 p{
+    font-size: 14px;
     color: hsl(0deg 0% 47%);
 }
 .ps5 h1{
@@ -76,4 +73,9 @@
 /*NEWS*/
 .new{
     background-color: hsl(0deg 0% 12%);;
+}
+/*PS-4*/
+.ps4 a{
+    font-size: 12px;
+    background-color: hsl(222deg 79% 54%);
 }
