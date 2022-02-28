@@ -70,6 +70,9 @@
     background-repeat: no-repeat;
     background-position: 50%;
 }
+.takes-two img{
+    width: 200px;
+}
 /*NEWS*/
 .new{
     background-color: hsl(0deg 0% 12%);;
@@ -78,4 +81,37 @@
 .ps4 a{
     font-size: 12px;
     background-color: hsl(222deg 79% 54%);
+}
+/*PS-PLUS*/
+.ps-plus{
+    background-color: hsl(20deg 2% 74%);
+}
+.ps-plus img{
+    width: 210px;
+}
+.ps-plus a{
+    background-color: hsl(220deg 4% 86%);
+}
+/*PS-NOW*/
+.ps-now{
+    background-color: hsl(230deg 46% 16%);
+}
+.ps-now img{
+    width: 210px;
+}
+.ps-now a{
+    color: black;
+    background-color: white;
+}
+
+/*SCONTI*/
+.sconti p{
+    color: grey;
+}
+/*FOOTER*/
+.footer{
+    background-color: hsl(214deg 100% 31%);
+}
+.r-img-footer{
+    width: 100px;
 }
