@@ -8,7 +8,7 @@
     background-color: white;
 }
 .r-font{
-    font-size: 12px;
+    font-size: 100%;
 }
 /*CONTENT*/
 .r-header-logo{
@@ -34,9 +34,10 @@
     width: 60%;
 }
 .r-header-jumbo p{
-    font-size: 12px;
+    font-size: 90%;
 }
 .r-header-jumbo a,.takes-two a{
+    font-size: 100%;
     background-color: hsl(15deg 86% 43%);
 }
 /*GAMES*/
