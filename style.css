@@ -68,6 +68,10 @@
 .r-opacity{
     filter: opacity(60%);
 }
+.r-opacity:hover{
+    filter: opacity(100%);
+    border-bottom: 2px solid #0d6efd;
+}
 /*TAKES-TWO*/
 .takes-two{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
