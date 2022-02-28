@@ -40,6 +40,14 @@
     font-size: 100%;
     background-color: hsl(15deg 86% 43%);
 }
+.r-header-nav ul li img{
+    margin: 0px 4px;
+    width: 12px;
+}
+.r-header-nav ul li{
+    margin: 0px 20px;
+   font-size: 20px;
+}
 /*GAMES*/
 .top-game{
     padding: 1px;
