@@ -21,7 +21,7 @@
     height: 70%;
 }
 .r-header-logo div{
-    height: 4vh;
+    max-height: 4vh;
 }
 .r-header-jumbo{
     background-image: url(img/jumbo-bg.png);
